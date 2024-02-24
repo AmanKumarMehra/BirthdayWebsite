@@ -38,8 +38,9 @@ body {
 .paper.image {
   padding: 10px;
 }
+
 .paper.image p {
-  font-size: 30px;
+  font-size: 50px;
 }
 
 img {
@@ -65,9 +66,19 @@ img {
 p {
   font-family: 'Zeyada';
   font-size: 50px;
-  color: rgb(0,0,100);
+  color: rgb(95, 11, 230);
   opacity: 0.75;
   user-select: none;
   
   /* filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9)); */
 }
+
+p2 {
+    font-family: 'Zeyada';
+    font-size: 50px;
+    color: rgb(207, 9, 9);
+    opacity: 0.75;
+    user-select: none;
+    
+    /* filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9)); */
+  }
