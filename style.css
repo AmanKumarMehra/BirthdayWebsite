@@ -29,8 +29,8 @@ body {
 
 .paper.heart {
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 500px;
+  height: 500px;
   padding: 0;
   border-radius: 50%;
 }
@@ -40,11 +40,11 @@ body {
 }
 
 .paper.image p {
-  font-size: 50px;
+  font-size: 80px;
 }
 
 img {
-  max-height: 200px;
+  max-height: 500px;
   width: 100%;
   user-select: none;
 }
@@ -65,7 +65,7 @@ img {
 
 p {
   font-family: 'Zeyada';
-  font-size: 50px;
+  font-size: 80px;
   color: rgb(95, 11, 230);
   opacity: 0.75;
   user-select: none;
@@ -75,7 +75,7 @@ p {
 
 p2 {
     font-family: 'Zeyada';
-    font-size: 50px;
+    font-size: 80px;
     color: rgb(207, 9, 9);
     opacity: 0.75;
     user-select: none;
